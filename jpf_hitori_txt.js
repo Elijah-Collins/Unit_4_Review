@@ -5,7 +5,7 @@
    Tutorial 11
    Review Assignment
 
-   Author: 
+   Author: Elijah Collins
    Date:   
 
    Global Variables
@@ -58,6 +58,9 @@
 
          
 /* ================================================================= */
+
+var allCells;
+
 
 function checkSolution() {
    /* Set the initial solved state of the puzzle to true */
